@@ -282,8 +282,8 @@
         }
       },
       "images": {
-        "large": "/drivers/dimmable_transformer/assets/images/large.jpg",
-        "small": "/drivers/dimmable_transformer/assets/images/small.jpg"
+        "large": "/drivers/dimmable_transformer/assets/images/large.png",
+        "small": "/drivers/dimmable_transformer/assets/images/small.png"
       }
     },
     {
