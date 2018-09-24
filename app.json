@@ -23,6 +23,38 @@
   },
   "drivers": [
     {
+      "id": "control_outlet",
+      "name": {
+        "en": "Control Outlet",
+        "nl": "Draadloos Stopcontact"
+      },
+      "class": "socket",
+      "capabilities": [
+        "onoff"
+      ],
+      "zigbee": {
+        "manufacturerName": "IKEA of Sweden",
+        "productId": [
+          "TRADFRI control outlet"
+        ],
+        "deviceId": 266,
+        "profileId": [
+          260
+        ],
+        "learnmode": {
+          "image": "/drivers/control_outlet/assets/icon.svg",
+          "instruction": {
+            "en": "Push a pin down into the hole on the bottom of the device until the LED starts blinking.",
+            "nl": "Druk met een pinnetje in het gaatje aan de onderkant van het apparaat totdat de LED gaat knipperen."
+          }
+        }
+      },
+      "images": {
+        "large": "/drivers/control_outlet/assets/images/large.png",
+        "small": "/drivers/control_outlet/assets/images/small.png"
+      }
+    },
+    {
       "id": "tunable_white_bulb",
       "name": {
         "en": "Tunable White Bulb (E27)",
