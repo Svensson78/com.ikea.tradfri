@@ -67,6 +67,11 @@
         "light_temperature"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -100,7 +105,30 @@
       "images": {
         "large": "/drivers/tunable_white_bulb/assets/images/large.png",
         "small": "/drivers/tunable_white_bulb/assets/images/small.png"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     },
     {
       "id": "tunable_white_bulb_e14",
@@ -115,6 +143,11 @@
         "light_temperature"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -138,7 +171,30 @@
       "images": {
         "large": "/drivers/tunable_white_bulb_e14/assets/images/large.jpg",
         "small": "/drivers/tunable_white_bulb_e14/assets/images/small.jpg"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     },
     {
       "id": "rgb_bulb",
@@ -156,6 +212,11 @@
         "light_mode"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -181,7 +242,30 @@
       "images": {
         "large": "/drivers/tunable_white_bulb/assets/images/large.png",
         "small": "/drivers/tunable_white_bulb/assets/images/small.png"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     },
     {
       "id": "remote_rotating_dimmer",
@@ -243,6 +327,11 @@
         "dim"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -269,7 +358,30 @@
       "images": {
         "large": "/drivers/dimmable_bulb/assets/images/large.png",
         "small": "/drivers/dimmable_bulb/assets/images/small.png"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     },
     {
       "id": "dimmable_bulb_e14",
@@ -283,6 +395,11 @@
         "dim"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -306,7 +423,30 @@
       "images": {
         "large": "/drivers/dimmable_bulb_e14/assets/images/large.jpg",
         "small": "/drivers/dimmable_bulb_e14/assets/images/small.jpg"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     },
     {
       "id": "dimmable_transformer",
@@ -320,6 +460,11 @@
         "dim"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -346,7 +491,30 @@
       "images": {
         "large": "/drivers/dimmable_transformer/assets/images/large.png",
         "small": "/drivers/dimmable_transformer/assets/images/small.png"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     },
     {
       "id": "dimmable_spot",
@@ -360,6 +528,11 @@
         "dim"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -383,7 +556,30 @@
       "images": {
         "large": "/drivers/dimmable_spot/assets/images/large.jpg",
         "small": "/drivers/dimmable_spot/assets/images/small.jpg"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     },
     {
       "id": "tunable_spot",
@@ -398,6 +594,11 @@
         "light_temperature"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -421,7 +622,30 @@
       "images": {
         "large": "/drivers/tunable_spot/assets/images/large.jpg",
         "small": "/drivers/tunable_spot/assets/images/small.jpg"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     },
     {
       "id": "floalt_panel",
@@ -436,6 +660,11 @@
         "light_temperature"
       ],
       "capabilitiesOptions": {
+        "dim": {
+          "opts": {
+            "duration": true
+          }
+        },
         "onoff": {
           "setOnDim": false
         }
@@ -464,7 +693,30 @@
       "images": {
         "large": "/drivers/floalt_panel/assets/images/large.png",
         "small": "/drivers/floalt_panel/assets/images/small.png"
-      }
+      },
+      "settings": [
+        {
+          "id": "transition_time",
+          "type": "number",
+          "label": {
+            "en": "Dim duration",
+            "nl": "Dim duur"
+          },
+          "hint": {
+            "en": "This setting determines the time in seconds it takes to dim from one level to another. Note: this setting can be overriden by the duration value in a Flow Card.",
+            "nl": "Deze instelling bepaalt de duur in seconden van het dimmen van een niveau naar een ander. Let op: deze instelling kan tijdelijk overschreven worden door de dim duur waarde in een Flow Card."
+          },
+          "value": 0,
+          "units": {
+            "en": "s",
+            "nl": "s"
+          },
+          "attr": {
+            "min": 0,
+            "max": 6553
+          }
+        }
+      ]
     }
   ],
   "flow": {
