@@ -34,6 +34,11 @@
         "dim",
         "light_temperature"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": [
@@ -77,6 +82,11 @@
         "dim",
         "light_temperature"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": "TRADFRI bulb E14 WS opal 400lm",
@@ -113,6 +123,11 @@
         "light_temperature",
         "light_mode"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": [
@@ -195,6 +210,11 @@
         "onoff",
         "dim"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": [
@@ -230,6 +250,11 @@
         "onoff",
         "dim"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": "TRADFRI bulb E14 W op/ch 400lm",
@@ -262,6 +287,11 @@
         "onoff",
         "dim"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": [
@@ -297,6 +327,11 @@
         "onoff",
         "dim"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": "TRADFRI bulb GU10 W 400lm",
@@ -330,6 +365,11 @@
         "dim",
         "light_temperature"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": "TRADFRI bulb GU10 WS 400lm",
@@ -363,6 +403,11 @@
         "dim",
         "light_temperature"
       ],
+      "capabilitiesOptions": {
+        "onoff": {
+          "setOnDim": false
+        }
+      },
       "zigbee": {
         "manufacturerName": "IKEA of Sweden",
         "productId": [
@@ -397,6 +442,31 @@
         "title": {
           "en": "Dimmer was rotated",
           "nl": "Dimmer is gedraaid"
+        },
+        "args": [
+          {
+            "name": "device",
+            "type": "device",
+            "filter": "driver_id=remote_rotating_dimmer"
+          }
+        ],
+        "tokens": [
+          {
+            "name": "value",
+            "type": "number",
+            "title": {
+              "en": "Value",
+              "nl": "Waarde"
+            },
+            "example": 1
+          }
+        ]
+      },
+      {
+        "id": "dimmer_rotate_stopped",
+        "title": {
+          "en": "Dimmer stopped rotating",
+          "nl": "Dimmer is gestopt met draaien"
         },
         "args": [
           {
