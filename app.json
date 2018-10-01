@@ -10,7 +10,7 @@
   "category": [
     "lights"
   ],
-  "version": "1.2.6",
+  "version": "1.2.7",
   "compatibility": ">=1.5.0",
   "sdk": 2,
   "author": {
@@ -44,8 +44,8 @@
         "learnmode": {
           "image": "/drivers/control_outlet/assets/icon.svg",
           "instruction": {
-            "en": "Push a pin down into the hole on the bottom of the device until the LED starts blinking.",
-            "nl": "Druk met een pinnetje in het gaatje aan de onderkant van het apparaat totdat de LED gaat knipperen."
+            "en": "Push the pair button on top of the device with a small pin until it toggles once and the LED starts blinking.",
+            "nl": "Druk met een klein pinnetje op de knop boven op het Draadloos Stopcontact totdat het één keer schakelt en de LED gaat knipperen."
           }
         }
       },
