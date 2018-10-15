@@ -3,7 +3,7 @@
 This app allows you to connect your IKEA Trådfri Devices to Homey
 
 ### Changelog
-Version 1.2.7
+Version 1.2.8
 * Improve Rotating Dimmer responsiveness
 * Add dim duration functionality
 * Add support for IKEA Trådfri Socket

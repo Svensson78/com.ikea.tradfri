@@ -10,7 +10,7 @@
   "category": [
     "lights"
   ],
-  "version": "1.2.7",
+  "version": "1.2.8",
   "compatibility": ">=1.5.0",
   "sdk": 2,
   "author": {
@@ -44,8 +44,8 @@
         "learnmode": {
           "image": "/drivers/control_outlet/assets/icon.svg",
           "instruction": {
-            "en": "Push the pair button on top of the device with a small pin until it toggles once and the LED starts blinking.",
-            "nl": "Druk met een klein pinnetje op de knop boven op het Draadloos Stopcontact totdat het één keer schakelt en de LED gaat knipperen."
+            "en": "Push the pair button on top of the device with a small pin until it toggles once and the LED starts blinking.\n\nNote: it can take 15-20 seconds before the pairing starts after pushing the button, if the device does not pair within 15-20 seconds please try again.",
+            "nl": "Druk met een klein pinnetje op de knop boven op het Draadloos Stopcontact totdat het één keer schakelt en de LED gaat knipperen.\n\nLet op: het kan 15-20 seconden duren na het indrukken van de knop voor het apparaat wordt gekoppeld, gebeurt dit niet binnen 15-20 seconden probeer het dan nog eens."
           }
         }
       },
