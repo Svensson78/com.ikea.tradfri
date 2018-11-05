@@ -42,7 +42,7 @@
           260
         ],
         "learnmode": {
-          "image": "/drivers/control_outlet/assets/icon.svg",
+          "image": "/drivers/control_outlet/assets/learnmode.svg",
           "instruction": {
             "en": "Press and hold the pair button on top of the Control Outlet with a small pin until the LED starts blinking.\n\nNote: it can take 15-20 seconds before pairing starts after releasing the button, if the device does not pair within 15-20 seconds please try again.",
             "nl": "Houd met een klein pinnetje de knop boven op het Draadloos Stopcontact ingedrukt totdat de LED gaat knipperen.\n\nLet op: het kan 15-20 seconden duren na het loslaten van de knop voor het apparaat wordt gekoppeld, gebeurt dit niet binnen 15-20 seconden probeer het dan nog eens."
