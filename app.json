@@ -95,10 +95,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/tunable_white_bulb/assets/icon.svg",
+          "image": "/drivers/tunable_white_bulb/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de lamp aan en uit te zetten. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the bulb once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on very quickly. It will flash twice to indicate it has been reset.",
+            "nl": "Zet de lamp één keer uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan een reset uit te voeren door de lamp 6 keer uit en aan te zetten zoals de animatie laat zien, laat de lamp vervolgens aan staan. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -161,10 +161,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/tunable_white_bulb_e14/assets/icon.svg",
+          "image": "/drivers/tunable_white_bulb_e14/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de lamp aan en uit te zetten. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the bulb once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on. It will flash twice to indicate it has been reset.",
+            "nl": "Zet de lamp één keer uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan een reset uit te voeren door de lamp 6 keer uit en aan te zetten zoals de animatie laat zien, laat de lamp vervolgens aan staan. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -232,10 +232,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/tunable_white_bulb/assets/icon.svg",
+          "image": "/drivers/tunable_white_bulb/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de lamp aan en uit te zetten. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the bulb once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on. It will flash twice to indicate it has been reset.",
+            "nl": "Zet de lamp één keer uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan een reset uit te voeren door de lamp 6 keer uit en aan te zetten zoals de animatie laat zien, laat de lamp vervolgens aan staan. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -348,10 +348,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/dimmable_bulb/assets/icon.svg",
+          "image": "/drivers/dimmable_bulb/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de lamp aan en uit te zetten. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the bulb once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on. It will flash twice to indicate it has been reset.",
+            "nl": "Zet de lamp één keer uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan een reset uit te voeren door de lamp 6 keer uit en aan te zetten zoals de animatie laat zien, laat de lamp vervolgens aan staan. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -413,10 +413,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/dimmable_bulb_e14/assets/icon.svg",
+          "image": "/drivers/dimmable_bulb_e14/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the bulb to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet de lamp uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de lamp aan en uit te zetten. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the bulb once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the bulb by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on. It will flash twice to indicate it has been reset.",
+            "nl": "Zet de lamp één keer uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer dan een reset uit te voeren door de lamp 6 keer uit en aan te zetten zoals de animatie laat zien, laat de lamp vervolgens aan staan. De lamp zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -481,10 +481,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/dimmable_transformer/assets/icon.svg",
+          "image": "/drivers/dimmable_transformer/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the transformer to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the transformer by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet de transformator uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de transformator aan en uit te zetten. De transformator zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the transformer once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the transformer by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on. It will flash twice to indicate it has been reset.",
+            "nl": "Zet de transformator één keer uit en weer aan.\n\nWordt de lamp niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de transformator aan en uit te zetten. De transformator zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -546,10 +546,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/dimmable_spot/assets/icon.svg",
+          "image": "/drivers/dimmable_spot/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the spot to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the spot by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet de spot uit en weer aan.\n\nWordt de spot niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de spot aan en uit te zetten. De spot zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the spot once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the spot by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on. It will flash twice to indicate it has been reset.",
+            "nl": "Zet de spot één keer uit en weer aan.\n\nWordt de spot niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de spot aan en uit te zetten. De spot zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -612,10 +612,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/tunable_spot/assets/icon.svg",
+          "image": "/drivers/tunable_spot/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the spot to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the spot by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet de spot uit en weer aan.\n\nWordt de spot niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de spot aan en uit te zetten. De spot zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the spot once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the spot by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on. It will flash twice to indicate it has been reset.",
+            "nl": "Zet de spot één keer uit en weer aan.\n\nWordt de spot niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de spot aan en uit te zetten. De spot zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
@@ -683,10 +683,10 @@
           49246
         ],
         "learnmode": {
-          "image": "/drivers/floalt_panel/assets/icon.svg",
+          "image": "/drivers/floalt_panel/assets/learnmode.svg",
           "instruction": {
-            "en": "Toggle the Floalt Panel to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the Floalt Panel by toggling it 6 times very quickly. It will flash twice to indicate it has been reset.",
-            "nl": "Zet het Floalt Paneel uit en weer aan.\n\nWordt het Floalt Paneel niet automatisch toegevoegd binnen 20 seconden, probeer het dan te resetten door snel 6 keer de lamp aan en uit te zetten. Het Floalt Paneel zal twee keer knipperen om aan te geven dat hij is gereset."
+            "en": "Toggle the Floalt Panel once to start pairing.\n\nIf pairing does not automatically start within 20 seconds, try resetting the Floalt Panel by toggling it 6 times as demonstrated by the animation, afterwards leave it turned on. It will flash twice to indicate it has been reset.",
+            "nl": "Zet het Floalt Paneel één keer uit en weer aan.\n\nWordt het Floalt Paneel niet automatisch toegevoegd binnen 20 seconden, probeer dan een reset uit te voeren door de lamp 6 keer uit en aan te zetten zoals de animatie laat zien, laat de lamp vervolgens aan staan. Het Floalt Paneel zal twee keer knipperen om aan te geven dat hij is gereset."
           }
         }
       },
